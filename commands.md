@@ -1,8 +1,8 @@
 ### Rhino 5 Commands
-Rhinoceros 3D can be very opaque, as you need to know the name of the command before you can use it! This guide will contain brief descriptions of useful beginner's commands to help get your modeling started.
-
+Rhinoceros 3D can be very opaque to beginners, as you often need to know the name of the command, or to have memorized its inscrutable icon, before you can use it! This guide will contain brief videos of useful commands to help get your modeling started.
 
 ##### Snaps
+- Grid
 - End
 - Point
 - Midpoint
@@ -10,8 +10,10 @@ Rhinoceros 3D can be very opaque, as you need to know the name of the command be
 - Intersection
 - Quad
 
-#####Operations
-
+##### General Operations
+- Inclusive vs Exclusive Select
+- Gumball Manipulations
+- Drag Copy
 - Trim
 - Split
 - Join
@@ -19,8 +21,7 @@ Rhinoceros 3D can be very opaque, as you need to know the name of the command be
 - Move
 - Copy
 
-#####Points
-
+##### Points
 - Point
 - Points
 
@@ -34,13 +35,13 @@ Rhinoceros 3D can be very opaque, as you need to know the name of the command be
 - Rectangle (Center Corner)
 - Circle (Radius)
 - Circle (Diameter)
-- Curve
+- Curve (Control Points
+- Curve (Interpolate Points)
 
 ##### Curve Manipulation
-
 - Fillet
 - Chamfer
 - FilletCorners
 
-
-
+##### Primitives
+- Box
