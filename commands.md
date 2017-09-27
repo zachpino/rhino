@@ -37,7 +37,9 @@ Rhinoceros 3D can be very opaque to beginners, as you often need to know the nam
 - `Move`
 ![move](commands/move.gif)
 
-- Grid
+- `Grid`
+![grid](commands/grid.gif)
+
 
 ##### Vectors
 - `Point` and `Points`
