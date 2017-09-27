@@ -14,26 +14,29 @@ Rhinoceros 3D can be very opaque to beginners, as you often need to know the nam
 - Midpoint Snap
 ![mid snap](commands/midsnap.gif)
 
-- Center
+- Center Snap
 ![center snap](commands/centersnap.gif)
 
-- Intersection
+- Intersection Snap
 ![int snap](commands/intsnap.gif)
 
-- Quad
+- Quadrant Snap
 ![quad snap](commands/quadsnap.gif)
 
 
 ##### General Operations
 - Inclusive vs Exclusive Selections
 - Gumball Manipulations
-- Drag Copy
-- Trim
-- Split
-- Join
-- Explode
+
+- Drag Copy (Press, and don't hold, Alt/Opt key while dragging)
+![drag copy](commands/dragcopy.gif)
+
+- `Trim`
+![trim](commands/trim.gif)
+
 - `Move`
 ![move](commands/move.gif)
+
 - Grid
 
 ##### Vectors
@@ -75,8 +78,9 @@ Rhinoceros 3D can be very opaque to beginners, as you often need to know the nam
 
 ##### 3D Primitives
 - Box
+![box](commands/box.gif)
+
 
 ##### Solid Modeling
 - `ExtrudeCrv`
 ![extrudecrv](commands/extrudecrv.gif)
-
