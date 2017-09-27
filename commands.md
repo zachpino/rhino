@@ -30,6 +30,7 @@ Rhinoceros 3D can be very opaque to beginners, as you often need to know the nam
 
 - Line
 - Polyline
+![polyline](commands/polyline.gif)
 - Rectangle
 - Rectangle (3 Point)
 - Rectangle (Center Corner)
