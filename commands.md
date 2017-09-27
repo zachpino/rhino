@@ -35,7 +35,7 @@ Rhinoceros 3D can be very opaque to beginners, as you often need to know the nam
 - Rectangle
 ![rectangle](commands/rectangle.gif)
 - Rectangle (3 Point)
-![rectangle3pt](commands/3ptrectangle.gif)
+![rectangle3pt](commands/rectangle3pt.gif)
 - Circle (Radius and Diameter)
 ![circle](commands/circle.gif)
 - Curve (Control Points
@@ -45,6 +45,7 @@ Rhinoceros 3D can be very opaque to beginners, as you often need to know the nam
 - Fillet
 ![fillet](commands/fillet.gif)
 - Chamfer
+![chamfer](commands/chamfer.gif)
 - FilletCorners
 
 ##### Primitives
