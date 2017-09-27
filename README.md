@@ -2,8 +2,8 @@
 
 - [Commands](commands.md)
 
-- [Outputs](outputs.md)
+- Outputs
 
-- [Models](models.md)
+- Models
 
-- [Tips and Tricks](tips.md)
+- Tips and Tricks
