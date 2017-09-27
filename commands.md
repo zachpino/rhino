@@ -29,18 +29,21 @@ Rhinoceros 3D can be very opaque to beginners, as you often need to know the nam
 [Introduction to Curve Drawing](http://docs.mcneel.com/rhino/5/help/en-us/index.htm#seealso/sak_curve.htm)
 
 - Line
+![line](commands/line.gif)
 - Polyline
 ![polyline](commands/polyline.gif)
 - Rectangle
+![rectangle](commands/rectangle.gif)
 - Rectangle (3 Point)
-- Rectangle (Center Corner)
-- Circle (Radius)
-- Circle (Diameter)
+![rectangle3pt](commands/3ptrectangle.gif)
+- Circle (Radius and Diameter)
+![circle](commands/circle.gif)
 - Curve (Control Points
 - Curve (Interpolate Points)
 
 ##### Curve Manipulation
 - Fillet
+![fillet](commands/fillet.gif)
 - Chamfer
 - FilletCorners
 
