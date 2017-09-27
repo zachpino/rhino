@@ -20,6 +20,7 @@ Rhinoceros 3D can be very opaque to beginners, as you often need to know the nam
 - Explode
 - Move
 - Copy
+- Grid
 
 ##### Points
 - Point
@@ -28,7 +29,7 @@ Rhinoceros 3D can be very opaque to beginners, as you often need to know the nam
 ##### Curves
 [Introduction to Curve Drawing](http://docs.mcneel.com/rhino/5/help/en-us/index.htm#seealso/sak_curve.htm)
 
-- Line
+- `Line`
 ![line](commands/line.gif)
 
 - Polyline
@@ -58,5 +59,8 @@ Rhinoceros 3D can be very opaque to beginners, as you often need to know the nam
 ![filletcorners](commands/filletcorners.gif)
 
 
-##### Primitives
+##### 3D Primitives
 - Box
+
+##### Solid Modeling
+- ExtrudeCrv
