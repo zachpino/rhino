@@ -30,23 +30,33 @@ Rhinoceros 3D can be very opaque to beginners, as you often need to know the nam
 
 - Line
 ![line](commands/line.gif)
+
 - Polyline
 ![polyline](commands/polyline.gif)
+
 - Rectangle
 ![rectangle](commands/rectangle.gif)
+
 - Rectangle (3 Point)
 ![rectangle3pt](commands/rectangle3pt.gif)
+
 - Circle (Radius and Diameter)
 ![circle](commands/circle.gif)
-- Curve (Control Points
-- Curve (Interpolate Points)
+
+- Curve (Control Points)
+![curve](commands/curve.gif)
+
 
 ##### Curve Manipulation
 - Fillet
 ![fillet](commands/fillet.gif)
+
 - Chamfer
 ![chamfer](commands/chamfer.gif)
+
 - FilletCorners
+![filletcorners](commands/filletcorners.gif)
+
 
 ##### Primitives
 - Box
