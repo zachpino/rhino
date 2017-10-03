@@ -10,9 +10,9 @@
 
 - Edit the artboard to tabloid
 ![artboard](make2d/artboard.gif)
-
-- Change the stroke color
-![stroke-color](make2d/stroke-color.gif)
+ 
+- Change the stroke color (a step is invisible: use `Select->Same->Appearance` to grab all hidden lines)
+![stroke-color](make2d/stroke-change.gif)
 
 - Add some text and dimensions to the page, as well as important identifying text.
 
