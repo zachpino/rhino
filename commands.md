@@ -78,6 +78,11 @@ Rhinoceros 3D can be very opaque to beginners, as you often need to know the nam
 ![filletcorners](commands/filletcorners.gif)
 
 
+##### Dimensioning
+- `Dim` Linear Dimensioning
+![dim](commands/dim.gif)
+
+
 ##### 3D Primitives
 - Box
 ![box](commands/box.gif)
