@@ -5,7 +5,7 @@
 - Run `make2d` to produce lineart
 ![make2d](make2d/make2d.gif)
 
-- Dimension with `dim` if needed
+- Dimension with `dim` if needed and edit the formatting with "Dimension -> Dimension Styles..."
 ![dim](make2d/dim.gif)
 
 - Export the model to an AI file
