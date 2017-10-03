@@ -2,7 +2,7 @@
 
 - [Commands](commands.md)
 
-- Outputs
+- [Outputs](outputs.md)
 
 - Models
 
